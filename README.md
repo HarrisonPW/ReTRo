@@ -5,3 +5,4 @@
 2. Go to ReTRo-Service/src/main/resources/application.yml 
 <img width="667" alt="Screenshot 2023-04-11 at 12 22 44 PM" src="https://user-images.githubusercontent.com/32474200/231226887-a9f95f28-d533-4df0-be1c-e003498393ff.png">
 change to your passsword
+3. Copy and paste http://localhost:8082/ to your URL
