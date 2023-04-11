@@ -36,7 +36,7 @@ INSERT INTO `slb_user` (`id`, `dept_id`, `name`, `user_name`, `email`, `phone_nu
 2. Go to ReTRo-Service/src/main/resources/application.yml and change to your passsword
 <img width="667" alt="Screenshot 2023-04-11 at 12 22 44 PM" src="https://user-images.githubusercontent.com/32474200/231226887-a9f95f28-d533-4df0-be1c-e003498393ff.png">
 
-3.Run the project
+3.Run the project<br>
 <img width="616" alt="Screenshot 2023-04-11 at 12 36 21 PM" src="https://user-images.githubusercontent.com/32474200/231230046-dc27d85f-483b-4932-8248-ee6e11db56b7.png">
 
 4. Copy and paste http://localhost:8082/ to your URL
