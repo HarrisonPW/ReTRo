@@ -1,7 +1,6 @@
 # ReTRo
 
-1. You guys need to create a new database called slb
-1.1 execute the sql
+1. You guys need to create a new database called slb and execute the sql
 ```sql
 CREATE TABLE `slb_user` (
                             `id` int NOT NULL AUTO_INCREMENT,
