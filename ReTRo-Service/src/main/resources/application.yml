@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: slb-main
+  datasource:
+    url: jdbc:mysql://localhost:3306/slb?serverTimezone=UTC
+    username: root
+    password: 20010304
+    driver-class-name: com.mysql.jdbc.Driver
+  redis:
+    host: 127.0.0.1
+    port: 6379
+server:
+  # edit the port of the application here
+  port: 8082
+#  servlet:
+#    context-path: /slb
