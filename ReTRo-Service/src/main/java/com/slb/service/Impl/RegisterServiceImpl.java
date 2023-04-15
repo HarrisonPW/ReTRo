@@ -18,6 +18,10 @@ public class RegisterServiceImpl extends BaseApiService implements RegisterServi
     @Autowired
     private SlbUserMapper slbUserMapper;
 
+    public void setSlbUserMapper(SlbUserMapper slbUserMapper) {
+        this.slbUserMapper = slbUserMapper;
+    }
+
     @Override
     public BaseResponse<String> register(String email, String password) {
         if (StringUtils.isEmpty(email)) {
